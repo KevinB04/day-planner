@@ -1,11 +1,13 @@
 console.log("Hello world");
 
 $(document).ready(function () {
+    var timeDate = moment().format('MMMM Do YYYY, h:mm:ss a');
 
-    var times = ["9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM", "6PM", "7PM", "8PM", "9PM",];
+    var arrayOfHours = ["09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"];
+    timeDetector();
 
-for (var i=0; i < times.length; i++) {
-    var 
+for (var i=0; i < arrayOfHours.length; i++) {
+    if
 }
 
 $(".saveBtn").on("click", function() {
