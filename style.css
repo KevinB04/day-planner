@@ -4,8 +4,6 @@ body {
     line-height: 1;
   }
   
-
-
 .display {
     text-align: center;
 }
@@ -26,8 +24,6 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
   }
-
-  
   
   .description{
     white-space: pre-wrap;
