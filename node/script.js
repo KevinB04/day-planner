@@ -2,8 +2,6 @@ console.log("Hello world");
 
 $(document).ready(function () {
 
-    $("#currentDay").text(moment().format("dddd, MMMM Do YYYY"));
-    
 $(".saveBtn").on("click", function(){
 
 var activity = $(this).siblings(".description").val();
