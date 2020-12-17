@@ -2,7 +2,7 @@
 
 ## Installation
 
-You may fork the repo through my Github for installation. Feel free to use my site to keep track with your day-to-day tasks.
+You may fork the repo through my Github for installation. You may use my site to keep track with your day-to-day tasks! The gray boxes represent past hours, orange is current, and green is future.
 
 ## Usage
 
