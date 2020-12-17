@@ -26,11 +26,11 @@ function checkHour(){
         //if statements plus addClass plus $(this)
         if(rowHour < currentHour) {
             $(this).children(".description").addClass("past")
-        } else {
+        } else if(rowHour === currentHour) {
             $(this).children(".description").addClass("present")
-        // } else {
-        //     $(this).children(".description").addClass("future")
-        }
+          } else {
+             $(this).children(".description").addClass("future")
+         }
         
     })
 
