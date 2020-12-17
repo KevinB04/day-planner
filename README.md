@@ -15,7 +15,7 @@ https://momentjs.com/
 
 ## Credits
 
-Corey Yates for her constant guidance.
+Thank you to Corey Yates for her constant guidance.
 
 ## License
 
