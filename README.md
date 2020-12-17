@@ -6,7 +6,7 @@ You may fork the repo through my Github for installation. Feel free to use my si
 
 ## Usage
 
-
+https://user-images.githubusercontent.com/73902490/102437672-ef9df080-3fe8-11eb-881b-aadaaec81544.png
 
 ## Contributing
 
