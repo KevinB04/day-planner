@@ -19,4 +19,4 @@ Thank you to  my tutor Corey Yates for her constant guidance.
 
 ## License
 
-MIT (https://choosealicense.com/licenses/mit/) Copyright (c) [2020] [Kevin Buttimer]
+[MIT](https://choosealicense.com/licenses/mit/) Copyright (c) [2020] [Kevin Buttimer]
