@@ -1,5 +1,7 @@
 # day-planner
 
+![GitHub Logo](https://img.shields.io/badge/license-MIT-green)
+
 ## Table of Contents
    - [Installation](#installation)
    - [Usage](#usage)
