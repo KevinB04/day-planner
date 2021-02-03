@@ -17,8 +17,7 @@ You may fork the repo through my Github for installation. You may use my site to
 
 ## Contributions
 
-Thank you to Moment.js for providing updated dates and times.
-https://momentjs.com/
+* [Moment.js](https://momentjs.com/)
 
 ## Credits
 
